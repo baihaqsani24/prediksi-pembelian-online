@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+seaborn
+plotly
+# 4 library di bawah HARUS sama dengan versi di laptop (h8_env) saat membuat model_rf_tuned.pkl
+scikit-learn==GANTI
+feature-engine==GANTI
+pandas==GANTI
+numpy==GANTI
